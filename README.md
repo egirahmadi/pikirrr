@@ -29,7 +29,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Let's connect!
 <p>
     <a href="https://entaz.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://entaz.my.id-green?" /></a>
-    <a href="https://tw.egirahmadi8" target="blank"><img src="https://img.shields.io/badge/@egirahmadi8_-30302f?style=flat&logo=twitter" /></a>
+    <a href="twitter.com/egirahmadi7" target="blank"><img src="https://img.shields.io/badge/@egirahmadi7_-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/segintaz" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 

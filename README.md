@@ -29,12 +29,12 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Let's connect!
 <p>
     <a href="https://entaz.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://entaz.my.id-green?" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://tw.egirahmadi8" target="blank"><img src="https://img.shields.io/badge/@egirahmadi8_-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/segintaz" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**egi/egi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
